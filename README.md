@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jgooday48
+- 👋 Hi, I’m Joel
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Python, R and Power BI
 - ⚡ Fun fact: I used data from a space telescope that is 1 million km away from Earth for my master's project
